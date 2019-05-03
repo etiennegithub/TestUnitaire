@@ -3,7 +3,7 @@ Nom :
 - Etienne GOBION
 - Leo HAZARD
 - Kevin HEGO
-- Jerome CHENADEC
+- Jerome LE CHENADEC
 
 
 Point bonus :
